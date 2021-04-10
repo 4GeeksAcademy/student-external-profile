@@ -1,0 +1,86 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Marisleidis
+    last_name: Perdomo Osorio
+    
+    # Define yourself in 4-5 words
+    motto: El mundo es Energia
+    
+    # focus
+    focus: Crecimiento profesional
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: Ingeniero en Automatica, con experiencia en Informatica y amplio conocimiento en
+administracion de Redes informaticas y la defectacion y arreglos menores de equipos electronicos.
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    email: marisleidis84@gmail.com #optional
+    phone: +56 9 72 447 992 #optional
+    website: asd.com #optional
+    linkedin: https://www.linkedin.com/feed/ #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: marisleidis84
+    
+    twitter: 'webjeda' #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: Ingles
+        level: Basico
+
+      - idiom: Espanol
+        level: Nativo
+
+    # Interests or hobies
+    interests:
+      - item: Viajar
+
+      - item: Bailar
+
+      - item: cocinar
+
+# Your previous education
+education:
+    - degree: Ing. Automatica
+      university: Universidad de Oriente, Santiago de Cuba
+      # optional
+      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      time: 2006 - 2012
+      details: 
+# Your previous job experiences or voluntier
+experiences:
+    - role: Profesora de introduccion a la progracion c++
+    - role: Profesora de circuitos electricos
+      time: 2012 - 2016
+      company: Universidad de Oriente, Santiago de Cuba, Cuba
+# Your project portfolio
+projects:
+    intro: 
+      
+    assignments:
+      - title:
+
+skills:
+    toolset:
+      - name: Javascript
+        level: 60%
+
+      - name: HTML5 & CSS
+        level: 95%
