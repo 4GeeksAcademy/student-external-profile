@@ -1,0 +1,86 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+  # Your full name
+  first_name: Thomas
+  last_name: Soto
+
+  # Define yourself in 4-5 words
+  motto: Programa tú propio mundo
+
+  # focus
+  focus: Killing Bad Boys
+
+  # You have 1 paragraph to make a great impression, summarize your career.
+  summary: |
+    Antes de ingresar a estudiar Ingeniería en informática me gustaba ver videos
+    de programación y crear pequeños programas, despues de entender un poco de la
+    logica de la programación ingrese a estudiar. El primer semestre el docente me
+    destaco y me propuso ser alumno ayudante de programación basica donde ayudé en
+    la jornada Diurna y Vespertina. Actualente me encuentro cursando el ultimo año 
+    de la carrera donde tambien he realizado cursos de Node.js y Full Stack Developer.
+
+  # Your profile picture URL
+  # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+  avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+  # Contact Information
+  email: thomas.soto.r@gmail.com #optional
+  phone: #optional
+  website: thomassoto.com #optional
+  #linkedin: alandoe #optional
+
+  #
+  # ******** IMPORTANT *******
+  # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+  github: thomassr30
+
+  #twitter: #optional
+  #stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+  # languages you speak, levels inculde: Native, Professional
+  languages:
+    - idiom: Ingles
+      level: Basico
+
+  # Interests or hobies
+  interests:
+    - item: Futbol
+
+    - item: Leer sobre tecnologias
+
+    - item: Bomberos
+
+# Your previous education
+education:
+  - degree: Ingeniería en Informática
+    university: Duoc Uc
+    # optional
+    university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    time: 2018 - 2021
+    details: |
+      El Ingeniero en Informática al finalizar sus estudios estará capacitado para realizar
+      labores de levantamiento y análisis de requerimientos, desarrollo, adaptación y/o
+      integración de sistemas computacionales, integración de tecnologías de información,
+      desarrollo de soluciones tecnológicas, seguridad de sistemas computacionales,
+      aseguramiento de la calidad del software, gestión de proyectos informáticos, gestión
+      de la información, utilizando diversas técnicas, entornos de operación, lenguajes de
+      programación y tecnologías.
+        - Bullet point
+        - Bullet point
+
+skills:
+  toolset:
+    - name: HTML5 & CSS
+
+    - name: Javascript
+
+    - name: React
+
+    - name: Node.js
