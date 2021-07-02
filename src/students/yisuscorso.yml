@@ -9,38 +9,39 @@ skin: "White"
 basic_info:
 
     # Your full name
-    first_name: Jesus
-    last_name: Alvarez
+    first_name: Jesús
+    last_name: Álvarez
     
     # Define yourself in 4-5 words
-    motto: A human being who wants to give something good in return to the world 
+    motto: Neofilo. High-tech seekelance 
     
     # focus
-    focus: developer full stack and game programmer
+    focus: developer full stack 
     
     # You have 1 paragraph to make a great impression, summarize your career.
     summary: |
-      I'm a singer, writter and 2D digital animator. Since my childhood I have been passionate about videogames, draw and music. I love arts but now I want to learn about code and how to become a programmer to fullfill my dreams to work in the videogame industry and then make a company on my own.
-
-      Second paragraph if required.
+      I am an event, film and television executive producer. The first toy that I remember was an Amstrad CPC6128. 
+      From a very young age I have been passionate about video games, pop culture, music and any product 
+      related to technology. The big pending task in my life is having the independence to sit at my 
+      computer and be able to write code. My greatest wish is to become a programmer and to be able to attend a WWDC sometime
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
     avatar: 
 
     # Contact Information
-    email: alexandraeb20@gmail.com #optional
-    phone: (506) 7246 8197 #optional
-    website: https://github.com/TheNeonSpray #optional
-    linkedin: https://www.linkedin.com/in/alexandraespinozacoding/ #optional
+    email: yisus.corso@gmail.com #optional
+    phone: (0034) 617 654 714 #optional
+    website: https://github.com/yisuscorso #optional
+    linkedin:  #optional
     
     #
     # ******** IMPORTANT *******
     # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
-    github: TheNeonSpray
+    github: yisuscorso
     
-    twitter:  #optional
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:  https://twitter.com/yisus_corso #optional
+    stack-overflow: 15760535/corso # Number/Username, e.g. 123456/alandoe
 
     # languages you speak, levels inculde: Native, Professional
     languages:
@@ -48,13 +49,13 @@ basic_info:
         level: Native
 
       - idiom: English
-        level: High Medium level
+        level: Medium level
 
     # Interests or hobies
     interests:
-      - item: Video games
+      - item: Cinema and music
 
-      - item: Arts and music
+      - item: VideoGames
 
 # Your previous education
 education:
@@ -65,10 +66,8 @@ education:
       time: 2019 - 2020
       details: |
         Digital Animator 2D, using After Effects, Photoshop, Premiere Pro and Animate.
-
           - Bullet point
           - Bullet point
-
     - degree: Information technology service administration specialist
       university: University Unitec
       # optional
@@ -80,10 +79,8 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-
           - Bullet point
           - Bullet point
-
 # Your previous job experiences or voluntier
 experiences:
     - role: Customer Service Associate
@@ -93,10 +90,8 @@ experiences:
       company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
       details: |
         Customer Service for the Spain Account.
-
           - Bullet point
           - Bullet point
-
     - role: Intern for the Department of Conflict Studies
       time: 2015
       company: University For Peace, Costa Rica
@@ -104,10 +99,8 @@ experiences:
       company_logo: https://earthcharter.org/wp-content/uploads/2020/01/UPEACE-W.png
       details: |
         Assistant in the Department of Conflict Studies
-
           - Bullet point
           - Bullet point
-
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
@@ -119,17 +112,14 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-
           - Bullet point
           - Bullet point
-
 # Your project portfolio
 projects:
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
       - title: Velocity
         # optional
@@ -164,10 +154,10 @@ projects:
 skills:
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 0%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 0%
 
       - name: Angular
         level: 98%
@@ -175,8 +165,8 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Swift & Swift UI
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Sketch & Adobe Suite
         level: 85%
