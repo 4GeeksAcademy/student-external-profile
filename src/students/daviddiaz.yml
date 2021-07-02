@@ -1,0 +1,97 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: David
+    last_name: Diaz
+    
+    # Define yourself in 4-5 words
+    motto: Ease of speech , friendly, enthusiastic , cooperative.
+    
+    # focus
+    focus: FrontEnd
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: I have been dedicated to the web world since I was 16 years old Knowledge of SEO / SEM. Good mastery of ADOBE CLOUD |
+     
+      
+    
+    # Your profile picture URL
+    
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: 
+
+    # Contact Information
+    email: daed_diaz@hotmail.com
+    phone: 99-9999999
+    website: demo@demo.com
+    
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: https://github.com/soydeif
+    
+   
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: English
+        level: B2
+
+      - idiom: Spanish
+        level: Native
+
+    # Interests or hobies
+    interests:
+      - item: Coding
+
+      - item: Music
+
+      - item: Videogames
+
+# Your previous education
+education:
+
+    - degree: Full Stack
+      university: 4Geeks Academy
+      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      time: 2021 - 2021
+      details: Bootcamp part-time May|
+        
+    
+    -
+# Your previous job experiences or voluntier
+experiences:
+
+    - role: UI designer 
+      time: 2013-2014
+      company: Freelance
+      company_logo: https://lh3.googleusercontent.com/ogw/ADGmqu8wQKL5bENKdPITqAZzVeP9oLBl4jTY3BsW0vgp7g=s83-c-mo
+      details: Branding and web design  |
+       
+       
+skills:
+    toolset:
+      - name: Javascript 
+        
+
+      - name: CSS & HTML
+        
+
+      - name: GIT
+        
+
+      - name: PHP
+        
+
+      - name: ADOBE CLOUD
+        
